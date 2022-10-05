@@ -1,5 +1,4 @@
- ## Olá! Eu sou a Luiza Sena 🎀
-   Sou estudante de engenharia de software.
+ ## Olá! Eu sou a Luiza Sena, estudante de engenharia de software. 🎀
    
 <div align="center">
   <a href="https://github.com/senaluiza">
